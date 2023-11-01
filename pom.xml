@@ -116,7 +116,7 @@
         <byte-buddy.version>1.9.16</byte-buddy.version>
         <java-websocket.version>1.5.1</java-websocket.version>
         <py4j.version>0.10.9</py4j.version>
-        <auto-service.version>1.0.1</auto-service.version>
+        <auto-service.version>1.1.1</auto-service.version>
         <jacoco.skip>false</jacoco.skip>
         <netty.version>4.1.53.Final</netty.version>
         <maven-jar-plugin.version>3.2.0</maven-jar-plugin.version>
